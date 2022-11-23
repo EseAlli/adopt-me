@@ -67,7 +67,7 @@ const SearchParams = () => {
           </select>
         </label>
         <label>
-          Animal
+          Breed
           <select
             id="breed"
             value={breed}
